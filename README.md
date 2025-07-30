@@ -2,6 +2,7 @@
 🎓 Final-year Computer Engineering student at D.Y. Patil College of Engineering, Akurdi, Pune <br>
 💻 Enthusiastic MERN Stack Developer <br>
 🚀 Always eager to learn, grow, and take on challenging opportunities <br>
+⛰️ Travel keeps me inspired — new places, new people, new ideas. <br>
 🤝 Open to collaborations, internships, and exciting opportunities <br><br><br>
 
 ## Tech Stack <br>
